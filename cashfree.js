@@ -4,8 +4,8 @@ const { Cashfree } = require("cashfree-pg");
 // --header 'accept: application/json' \
 // --header 'content-type: application/json' \
 // --header 'x-api-version: 2023-08-01' \
-// --header 'x-client-id: 732271f83bebf04e38d2ad5fac172237' \
-// --header 'x-client-secret: cfsk_ma_prod_5885ab863694ed5d40402bc0e3a2d0eb_6ab23e81' \
+// --header 'x-client-id: ' \
+// --header 'x-client-secret: ' \
 // --data '
 
 //creates an order with the order amount and currency type returns a session id which is used for transaction.
